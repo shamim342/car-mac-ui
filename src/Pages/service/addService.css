@@ -1,0 +1,17 @@
+.add-service form {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin: auto;
+    background-color: rgb(27, 119, 119);
+    padding: 2rem;
+}
+
+input,
+textarea {
+    margin-bottom: 1rem;
+}
+
+.custom-btn {
+    background-color: deeppink;
+}

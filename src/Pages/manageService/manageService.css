@@ -1,0 +1,23 @@
+.manageService-action {
+    display: flex;
+    width: 80%;
+    background: red;
+    align-items: center;
+    justify-content: space-around;
+    margin: 1em auto;
+}
+
+.manageService-list {
+    display: flex;
+    width: 80%;
+    background: #333;
+    color: #fff;
+    align-items: center;
+    justify-content: space-around;
+    margin: .5em auto;
+}
+
+.icon-ms {
+    background: transparent;
+    color: red;
+}
